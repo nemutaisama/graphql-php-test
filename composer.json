@@ -1,0 +1,17 @@
+{
+    "name": "nemutaisama/graphql-php-test",
+    "require": {
+        "webonyx/graphql-php": "^14"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Ageev",
+            "email": "nemutaisama@gmail.com"
+        }
+    ]
+}
